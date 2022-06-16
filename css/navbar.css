@@ -1,0 +1,10 @@
+#navbar {
+  height: 150px;
+  width: 100%;
+  border: 1px solid red;
+}
+.logo {
+  display: block;
+  padding: 36px 22px 38px 60px;
+  margin-left: 30px;
+}
