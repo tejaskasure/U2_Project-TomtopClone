@@ -25,7 +25,7 @@ function myfunction() {
     alert("unvalid");
   } else {
     alert("Login Successful ! Welcome to TomTop");
-    window.location.href = "homepagefinal.html";
+    window.location.href = "main.html";
     localStorage.setItem("userhome", JSON.stringify(enteremail));
   }
 }

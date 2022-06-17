@@ -13,7 +13,7 @@ function myfunction() {
     userdata.push(userobj);
     console.log(userdata);
     localStorage.setItem("userdatastorage", JSON.stringify(userdata));
-    window.location.href = "signinpage.html";
+    window.location.href = "signin.html";
   } else {
     alert("Please enter password and capcha correctly!");
   }
