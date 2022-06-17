@@ -238,21 +238,7 @@ body {
   margin-left: 100px;
   color: blue;
 }
-/* #ProdYouLike{
-           display: flex;
-           display: grid;
-           grid-template-columns: repeat(5,1fr);
-           grid-template-rows: auto;
-           border: 1px solid red;
-           width: 94%;
-           margin: auto;
-           gap: 10px;
-       }
-       #ProdYouLike>div{
-           border: 1px solid red;
-           height: auto;
-           width: px;
-       } */
+
 /* You Might Like CSS START */
 #ProductULikeContainer {
   /* border: 1px solid red; */
@@ -419,9 +405,7 @@ body {
 .strkpara {
   text-decoration: line-through;
 }
-/* #TopBrandContainer{
-            margin-top: 1000px;
-        } */
+
 #TopBrands {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
@@ -537,9 +521,7 @@ body {
   margin: auto;
   gap: 10px;
 }
-/* #cunsumerElec>div{
-            border: 1px solid red;
-        } */
+
 #cebox1 {
   width: 37%;
   background-color: #f3f7f8;
