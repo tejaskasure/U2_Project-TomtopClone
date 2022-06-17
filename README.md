@@ -1,4 +1,4 @@
-# U2_Project-TomtopClone
+# U2_Project-TomTopClone
 <p align="center">
  <a href="https://tomtop-clone-u2.netlify.app/" target="_blank">
     <img   alt="TomTop-logo" height="70" alt="Fraazo Logo" src="https://static.tomtop.com/tomtop/icon/logo.png?v=3"/>
